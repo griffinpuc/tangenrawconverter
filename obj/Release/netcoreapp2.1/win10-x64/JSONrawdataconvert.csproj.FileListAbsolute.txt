@@ -1,0 +1,14 @@
+C:\Users\griff\Workspace\TangenBiosciences\Convert\dx-post-processing-algorithm\csharp-source\VS\JSONrawdataconvert\JSONrawdataconvert\bin\Release\netcoreapp2.1\win10-x64\hostpolicy.dll
+C:\Users\griff\Workspace\TangenBiosciences\Convert\dx-post-processing-algorithm\csharp-source\VS\JSONrawdataconvert\JSONrawdataconvert\bin\Release\netcoreapp2.1\win10-x64\hostfxr.dll
+C:\Users\griff\Workspace\TangenBiosciences\Convert\dx-post-processing-algorithm\csharp-source\VS\JSONrawdataconvert\JSONrawdataconvert\bin\Release\netcoreapp2.1\win10-x64\JSONrawdataconvert.exe
+C:\Users\griff\Workspace\TangenBiosciences\Convert\dx-post-processing-algorithm\csharp-source\VS\JSONrawdataconvert\JSONrawdataconvert\bin\Release\netcoreapp2.1\win10-x64\JSONrawdataconvert.deps.json
+C:\Users\griff\Workspace\TangenBiosciences\Convert\dx-post-processing-algorithm\csharp-source\VS\JSONrawdataconvert\JSONrawdataconvert\bin\Release\netcoreapp2.1\win10-x64\JSONrawdataconvert.runtimeconfig.json
+C:\Users\griff\Workspace\TangenBiosciences\Convert\dx-post-processing-algorithm\csharp-source\VS\JSONrawdataconvert\JSONrawdataconvert\bin\Release\netcoreapp2.1\win10-x64\JSONrawdataconvert.runtimeconfig.dev.json
+C:\Users\griff\Workspace\TangenBiosciences\Convert\dx-post-processing-algorithm\csharp-source\VS\JSONrawdataconvert\JSONrawdataconvert\bin\Release\netcoreapp2.1\win10-x64\JSONrawdataconvert.dll
+C:\Users\griff\Workspace\TangenBiosciences\Convert\dx-post-processing-algorithm\csharp-source\VS\JSONrawdataconvert\JSONrawdataconvert\bin\Release\netcoreapp2.1\win10-x64\JSONrawdataconvert.pdb
+C:\Users\griff\Workspace\TangenBiosciences\Convert\dx-post-processing-algorithm\csharp-source\VS\JSONrawdataconvert\JSONrawdataconvert\obj\Release\netcoreapp2.1\win10-x64\JSONrawdataconvert.csprojAssemblyReference.cache
+C:\Users\griff\Workspace\TangenBiosciences\Convert\dx-post-processing-algorithm\csharp-source\VS\JSONrawdataconvert\JSONrawdataconvert\obj\Release\netcoreapp2.1\win10-x64\JSONrawdataconvert.csproj.CoreCompileInputs.cache
+C:\Users\griff\Workspace\TangenBiosciences\Convert\dx-post-processing-algorithm\csharp-source\VS\JSONrawdataconvert\JSONrawdataconvert\obj\Release\netcoreapp2.1\win10-x64\JSONrawdataconvert.AssemblyInfoInputs.cache
+C:\Users\griff\Workspace\TangenBiosciences\Convert\dx-post-processing-algorithm\csharp-source\VS\JSONrawdataconvert\JSONrawdataconvert\obj\Release\netcoreapp2.1\win10-x64\JSONrawdataconvert.AssemblyInfo.cs
+C:\Users\griff\Workspace\TangenBiosciences\Convert\dx-post-processing-algorithm\csharp-source\VS\JSONrawdataconvert\JSONrawdataconvert\obj\Release\netcoreapp2.1\win10-x64\JSONrawdataconvert.dll
+C:\Users\griff\Workspace\TangenBiosciences\Convert\dx-post-processing-algorithm\csharp-source\VS\JSONrawdataconvert\JSONrawdataconvert\obj\Release\netcoreapp2.1\win10-x64\JSONrawdataconvert.pdb

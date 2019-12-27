@@ -1,0 +1,10 @@
+C:\Users\griff\Workspace\TangenBiosciences\Convert\dx-post-processing-algorithm\csharp-source\VS\JSONrawdataconvert\JSONrawdataconvert\bin\Debug\netcoreapp2.1\JSONrawdataconvert.deps.json
+C:\Users\griff\Workspace\TangenBiosciences\Convert\dx-post-processing-algorithm\csharp-source\VS\JSONrawdataconvert\JSONrawdataconvert\bin\Debug\netcoreapp2.1\JSONrawdataconvert.runtimeconfig.json
+C:\Users\griff\Workspace\TangenBiosciences\Convert\dx-post-processing-algorithm\csharp-source\VS\JSONrawdataconvert\JSONrawdataconvert\bin\Debug\netcoreapp2.1\JSONrawdataconvert.runtimeconfig.dev.json
+C:\Users\griff\Workspace\TangenBiosciences\Convert\dx-post-processing-algorithm\csharp-source\VS\JSONrawdataconvert\JSONrawdataconvert\bin\Debug\netcoreapp2.1\JSONrawdataconvert.dll
+C:\Users\griff\Workspace\TangenBiosciences\Convert\dx-post-processing-algorithm\csharp-source\VS\JSONrawdataconvert\JSONrawdataconvert\bin\Debug\netcoreapp2.1\JSONrawdataconvert.pdb
+C:\Users\griff\Workspace\TangenBiosciences\Convert\dx-post-processing-algorithm\csharp-source\VS\JSONrawdataconvert\JSONrawdataconvert\obj\Debug\netcoreapp2.1\JSONrawdataconvert.csprojAssemblyReference.cache
+C:\Users\griff\Workspace\TangenBiosciences\Convert\dx-post-processing-algorithm\csharp-source\VS\JSONrawdataconvert\JSONrawdataconvert\obj\Debug\netcoreapp2.1\JSONrawdataconvert.AssemblyInfoInputs.cache
+C:\Users\griff\Workspace\TangenBiosciences\Convert\dx-post-processing-algorithm\csharp-source\VS\JSONrawdataconvert\JSONrawdataconvert\obj\Debug\netcoreapp2.1\JSONrawdataconvert.AssemblyInfo.cs
+C:\Users\griff\Workspace\TangenBiosciences\Convert\dx-post-processing-algorithm\csharp-source\VS\JSONrawdataconvert\JSONrawdataconvert\obj\Debug\netcoreapp2.1\JSONrawdataconvert.dll
+C:\Users\griff\Workspace\TangenBiosciences\Convert\dx-post-processing-algorithm\csharp-source\VS\JSONrawdataconvert\JSONrawdataconvert\obj\Debug\netcoreapp2.1\JSONrawdataconvert.pdb

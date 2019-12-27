@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "JSONrawdataconvert": {
+      "commandName": "Project",
+      "commandLineArgs": "-p C:\\Users\\griff\\Downloads\\RUN_20191223_164427_CP53.json"
+    }
+  }
+}
